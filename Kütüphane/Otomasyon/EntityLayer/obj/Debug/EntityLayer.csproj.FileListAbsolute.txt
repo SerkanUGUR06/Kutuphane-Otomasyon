@@ -1,0 +1,15 @@
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\EntityLayer\obj\Debug\EntityLayer.pdb

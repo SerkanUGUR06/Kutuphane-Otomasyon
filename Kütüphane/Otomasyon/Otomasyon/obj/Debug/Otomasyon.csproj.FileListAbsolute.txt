@@ -1,0 +1,72 @@
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkayit.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.anasayfa.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kayitol.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkirala.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkiralama.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkitap.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumuye.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.uyekayit.resources
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.anasayfa.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kayitol.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkayit.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkirala.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkiralama.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkitap.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumuye.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.uyekayit.resources
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.anasayfa.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kayitol.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkayit.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.kitapkirala.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkiralama.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumkitap.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.tumuye.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.uyekayit.resources
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb

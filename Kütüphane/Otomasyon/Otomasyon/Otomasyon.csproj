@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C3E022FA-42F8-44E8-953E-AE53C4CA4869}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Otomasyon</RootNamespace>
+    <AssemblyName>Otomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayitol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayitol.Designer.cs">
+      <DependentUpon>kayitol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapkayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapkayit.Designer.cs">
+      <DependentUpon>kitapkayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapkirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapkirala.Designer.cs">
+      <DependentUpon>kitapkirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tumkiralama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tumkiralama.Designer.cs">
+      <DependentUpon>tumkiralama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tumkitap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tumkitap.Designer.cs">
+      <DependentUpon>tumkitap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tumuye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tumuye.Designer.cs">
+      <DependentUpon>tumuye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyekayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyekayit.Designer.cs">
+      <DependentUpon>uyekayit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayitol.resx">
+      <DependentUpon>kayitol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapkayit.resx">
+      <DependentUpon>kitapkayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapkirala.resx">
+      <DependentUpon>kitapkirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="tumkiralama.resx">
+      <DependentUpon>tumkiralama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tumkitap.resx">
+      <DependentUpon>tumkitap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tumuye.resx">
+      <DependentUpon>tumuye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyekayit.resx">
+      <DependentUpon>uyekayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arama1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{22603646-96f0-4be4-88a6-54ea9b8cc51b}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
+      <Project>{439fa629-d73a-4a8a-8baa-953e914de9cb}</Project>
+      <Name>EntityLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicLayer\LogicLayer.csproj">
+      <Project>{684f7548-15c5-4ba0-80d9-ad24c4dbcf0f}</Project>
+      <Name>LogicLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

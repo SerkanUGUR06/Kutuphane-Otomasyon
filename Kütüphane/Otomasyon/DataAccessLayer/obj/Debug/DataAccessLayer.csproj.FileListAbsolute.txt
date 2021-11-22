@@ -1,0 +1,24 @@
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

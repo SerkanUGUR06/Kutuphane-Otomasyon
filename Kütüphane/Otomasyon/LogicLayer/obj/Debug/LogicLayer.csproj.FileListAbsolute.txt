@@ -1,0 +1,30 @@
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Yeni klasör\Otomasyon\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Serkan_UĞUR_172119015_GörselProgramlama_Proje\Otomasyon\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\serkan\Desktop\Kütüphane\Otomasyon\LogicLayer\obj\Debug\LogicLayer.pdb
