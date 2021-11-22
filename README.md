@@ -1,1 +1,1 @@
-# K-t-phane-Otomasyon
+# Katmanlı Mimari İle Kütüphane Otomasyonu Projesidir.
